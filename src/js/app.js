@@ -1,4 +1,4 @@
-import { phoneFormatter } from './phone-formatter';
+import { phoneFormatter } from './formatters/phone-formatter';
 
 const phone = '8 (927) 000-00-00';
 const formattedPhone = phoneFormatter(phone);
