@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Регулярные выражения»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/3wl1i6twy4wyg968?svg=true)](https://ci.appveyor.com/project/stormozov/netology-regex-phones)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
